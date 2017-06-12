@@ -37,3 +37,5 @@ while i < beatles.length
   puts "Hi, I'm #{beatles[i][:name]}.  I'm #{beatles[i][:nickname]}!"
   i += 1
 end
+
+#this is a comment
